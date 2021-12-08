@@ -1,2 +1,1 @@
-# Tokyo-Revengers
-Site sobre a obra Tokyo Revengers
+# https://davibenatti.github.io/tokyo-revengers/
